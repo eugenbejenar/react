@@ -11,16 +11,13 @@ const App = () => {
     return(
         <div className="first-page">
 
-             <Header/>
+               <Header/>
 
 
-             <Content/>
+               <Content/>
 
 
-             <FooterPage/>
-
-
-
+               <FooterPage/>
 
 
         </div>
