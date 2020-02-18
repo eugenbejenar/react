@@ -1,8 +1,18 @@
-
-.content
-{
-  margin-top: 75px;
-
+.first-page {
+  background-image: url("./img/guitar-1928322.jpg");
+  background-size: cover;
+  background-position: center ;
+  background-repeat: no-repeat;
 }
+
+.content,
+.video
+ {
+  margin-top: 30px;
+}
+
+
+
+
 
 

@@ -10,15 +10,15 @@ import FooterPage from "./footer";
 const App = () => {
     return(
         <div className="first-page">
-         <div className="header">
+
              <Header/>
-         </div>
-            <div className="content">
-                <Content/>
-            </div>
-            <div className="footer">
-                <FooterPage/>
-            </div>
+
+
+             <Content/>
+
+
+             <FooterPage/>
+
 
 
 
